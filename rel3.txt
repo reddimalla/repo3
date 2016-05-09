@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added first line to rel2
+=======
+demat bancking
+>>>>>>> master
